@@ -11,8 +11,8 @@
 
 ### 🔱 Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javaongsan&hide=css,html&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=gh0stkey&hide=css,html&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javaongsan&hide=css,html&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=javaongsan&hide=css,html&layout=compact)
 
 ### ✨ Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=javaongsan&show_icons=true)](https://github-readme-stats.vercel.app/api?username=gh0stkey&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=javaongsan&show_icons=true)](https://github-readme-stats.vercel.app/api?username=javaongsan&show_icons=true)
