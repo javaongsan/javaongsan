@@ -2,7 +2,7 @@
 
 |Twitter|Linkedin|Discord|hackerone|
 ---|---|---|---|
-|[🐦](https://twitter.com/javaongsan)|[🧟](https://www.linkedin.com/in/java-ongsan-1857bb211/|)|[💬](https://discord.gg/9m2GbnBTqe)|[🐛](https://hackerone.com/j4v40n654n?type=user)
+|[🐦](https://twitter.com/javaongsan)|[🧟](https://www.linkedin.com/in/java-ongsan-1857bb211/)|[💬](https://discord.gg/9m2GbnBTqe)|[🐛](https://hackerone.com/j4v40n654n?type=user)
 
 <!-- 
 - 🔭 I’m currently working on ...
