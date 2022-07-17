@@ -1,11 +1,4 @@
 ### ☠️☠️☠️  No system is safe! Audacity triumphs! ☠️☠️☠️ 
-
-|Twitter|Linkedin|Discord|hackerone|
----|---|---|---|
-|[🐦](https://twitter.com/javaongsan)|[🧟](https://www.linkedin.com/in/java-ongsan-1857bb211/)|[💬](https://discord.gg/9m2GbnBTqe)|[🐛](https://hackerone.com/j4v40n654n?type=user)
-
-![hackethebox](http://www.hackthebox.eu/badge/image/9073)
-
 <!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
